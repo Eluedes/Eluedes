@@ -11,17 +11,6 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia e estou atualme
 
 ---
 
-## 📊 Habilidades
-Aqui estão algumas linguagens e ferramentas que estou aprendendo e o nível atual de proficiência em cada uma delas:
-
-- **Ruby**: ![60%](https://progress-bar.dev/60)
-- **JavaScript**: ![20%](https://progress-bar.dev/20)
-- **HTML & CSS**: ![40%](https://progress-bar.dev/40)
-
-> _Essas porcentagens representam meu progresso atual e serão atualizadas conforme eu aprendo mais!_
-
----
-
 ## 📂 Meus Repositórios
 Aqui estão alguns repositórios que demonstram meu progresso:
 - **[Minha Jornada em Ruby](https://github.com/Eluedes/Curso-em-Ruby)** - Onde compartilho tudo que estou aprendendo em Ruby.
