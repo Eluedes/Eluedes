@@ -16,6 +16,7 @@ Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia e estou atualme
 ## 📂 Meus Repositórios
 Aqui estão alguns repositórios que demonstram meu progresso:
 - **[Minha Jornada em Ruby](https://github.com/Eluedes/Curso-em-Ruby)** - Onde compartilho tudo que estou aprendendo em Ruby.  
+- **[Web Developer](https://github.com/Eluedes/Web-Developer)** - Meu repositório de estudos e projetos em desenvolvimento web (HTML, CSS e JavaScript).  
 - Outros projetos e experimentos estarão disponíveis conforme continuo meus estudos.  
 
 ---
