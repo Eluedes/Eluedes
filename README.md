@@ -1,30 +1,52 @@
-# 👋 Olá, eu sou Rafael Guedes!
+<h1 align="center">Fala dev! 👋 Eu sou Rafael Guedes</h1>
+<h3 align="center">🚀 Estudante de Desenvolvimento Web | Amante de Animes e Games 🚀</h3>
 
-Bem-vindo ao meu perfil do GitHub! Sou apaixonado por tecnologia e estou atualmente focado no aprendizado de programação. Aqui, você encontrará projetos e repositórios que refletem meu progresso, habilidades e dedicação no mundo da tecnologia.
-
----
-
-## 🚀 Sobre Mim
-- 🌱 Atualmente aprendendo:
-  - **Ruby**  
-  - **Desenvolvimento Web (HTML, CSS e JavaScript)**  
-- 🎯 Objetivo: Construir uma base sólida em programação e desenvolver projetos práticos.  
-- 🌐 Estou explorando o mundo do desenvolvimento de software e criando minhas habilidades do zero.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F79A00&width=435&lines=Estudante+Fullstack+em+formação;Amante+de+Animes+e+Jogos🎮;" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📂 Meus Repositórios
-Aqui estão alguns repositórios que demonstram meu progresso:
-- **[Minha Jornada em Ruby](https://github.com/Eluedes/Curso-em-Ruby)** - Onde compartilho tudo que estou aprendendo em Ruby.  
-- **[Web Developer](https://github.com/Eluedes/Web-Developer)** - Meu repositório de estudos e projetos em desenvolvimento web (HTML, CSS e JavaScript).  
-- Outros projetos e experimentos estarão disponíveis conforme continuo meus estudos.  
+### 🧩 Sobre Mim:
+- 📚 Estudante de **Desenvolvimento Web Fullstack**
+- 💻 Focado em **HTML, CSS, JavaScript, PHP** e **React.js**
+- 🌱 Atualmente aprendendo também **Node.js** e **Frameworks modernos**
+- 🎮 Gamer nas horas vagas — RPGs, MMORPGs e FPS
 
 ---
 
-## 💼 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Guedes-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafael-guedes-612379284/)  
-[![Discord](https://img.shields.io/badge/Discord-eluedes-5865F2?style=flat&logo=discord)](https://discord.com)  
+### 📈 Estatísticas GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
 
 ---
 
-Agradeço por visitar meu perfil! Fique à vontade para acompanhar minha jornada e sugerir melhorias ou ideias para meus projetos. 🚀
+### 🏆 Meus Troféus GitHub
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seuusuario&theme=dracula&no-bg=true&no-frame=true" alt="Trophies" />
+</p>
+
+---
+
+### 🚀 Tecnologias que utilizo:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
+</div>
+
+---
+
+### 🐍 A cobrinha dos commits
+<div align="center">
+  <img src="https://github.com/seuusuario/seuusuario/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
