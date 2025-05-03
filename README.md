@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou [Rafael Guedes | Eluedes]</h1>
+<h1 align="center">Olá 👋, eu sou Rafael Guedes | Eluedes</h1>
 <p align="center">🌱 Estudante de desenvolvimento web | HTML, CSS e aprendendo JS</p>
 
 <p align="center">
