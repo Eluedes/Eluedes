@@ -1,5 +1,5 @@
-<h1 align="center">Fala dev! 👋 Eu sou Rafael Guedes</h1>
-<h3 align="center">🚀 Estudante de Desenvolvimento Web | Amante de Animes e Games 🚀</h3>
+<h1 align="center">Olá 👋, eu sou [Seu Nome ou Apelido]</h1>
+<p align="center">🌱 Estudante de desenvolvimento web | HTML, CSS e aprendendo JS</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F79A00&width=435&lines=Estudante+Fullstack+em+formação;Amante+de+Animes+e+Jogos🎮;" alt="Typing SVG" />
@@ -7,37 +7,40 @@
 
 ---
 
-### 🧩 Sobre Mim:
-- 📚 Estudante de **Desenvolvimento Web Fullstack**
-- 💻 Focado em **HTML, CSS, JavaScript, PHP** e **React.js**
-- 🌱 Atualmente aprendendo também **Node.js** e **Frameworks modernos**
-- 🎮 Gamer nas horas vagas — RPGs, MMORPGs e FPS
-
----
-
-### 📈 Estatísticas GitHub
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
+### 🚀 Tecnologias que estou aprendendo
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  
+![HTML](https://img.shields.io/badge/HTML-5E44?style=flat-square&logo=html5&logoColor=white&color=E34F26)
+![CSS](https://img.shields.io/badge/CSS-3?style=flat-square&logo=css3&logoColor=white&color=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E)
+
 </div>
 
 ---
 
-### 🏆 Meus Troféus GitHub
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eluedes&show_icons=true&theme=dracula" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eluedes&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+### 📫 Como me encontrar:
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seuusuario&theme=dracula&no-bg=true&no-frame=true" alt="Trophies" />
+  <a href="https://instagram.com/rafael_guedees" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/491667607817027606" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Tecnologias que utilizo:
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30"/>
-</div>
+<p align="center">
+  Feito com ❤️ enquanto aprendo e evoluo 🧠
+</p>
