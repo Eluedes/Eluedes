@@ -2,7 +2,7 @@
 <p align="center">🧠 Estudante de Desenvolvimento Web com foco em Back-End</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F79A00&width=435&lines=Estudante+Fullstack+em+formação;Amante+de+Animes+e+Jogos🎮;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F79A00&width=435&lines=Estudante+Fullstack+em+formação;Animes+e+Jogos🎮;" alt="Typing SVG" />
 </p>
 
 ---
