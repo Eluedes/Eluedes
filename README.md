@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, eu sou Rafael Guedes | Eluedes</h1>
 <p align="center">🧠 Estudante de Desenvolvimento Web com foco em Back-End</p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F79A00&width=435&lines=Estudante+Fullstack+em+formação;Animes+e+Jogos🎮;" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F79A00&center=true&vCenter=true&width=435&lines=Estudante+Fullstack+em+formação;Meus+Hobbies+e+Animes+e+Jogos🎮;" alt="Typing SVG" />
+</div>
 
 ---
 
