@@ -11,6 +11,7 @@
 
 - 🎓 Estudante de **Desenvolvimento Web**
 - 🔁 Em transição para **Back-End com Python**
+- 🤖 Buscando aprender **automação** para otimizar tarefas e processos
 - 🌐 Ainda aprendendo o básico do **Front-End (HTML, CSS, JS)** para futuros projetos
 - 🎮 Apaixonado por **animes, jogos**, e por resolver problemas com código
 
@@ -24,6 +25,8 @@
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -32,8 +35,8 @@
 ### 📊 Minhas estatísticas no GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=eluedes&show_icons=true&theme=dracula" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eluedes&layout=compact&theme=dracula"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=eluedes&show_icons=true&hide_title=true&theme=dracula&bg_color=00000000" /> <br>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eluedes&layout=compact&hide_title=true&theme=dracula&bg_color=00000000"/>
 </div>
 
 ---
