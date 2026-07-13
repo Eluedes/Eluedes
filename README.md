@@ -21,7 +21,7 @@
 ### ⏳ Status: Graduação em Andamento
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=500&color=58A6FF&center=true&vCenter=true&width=400&lines=Progresso:+35%25;Estudando+modulos+Fullstack...;Compilando+diploma...;" alt="Terminal Loading" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=500&color=58A6FF&center=true&vCenter=true&width=400&lines=Progresso:+1%25;Estudando+Algoritmo,+Inglês+Instrumental,+Comunicação+Empresarial...;Compilando+diploma...;" alt="Terminal Loading" />
 </div>
 
 ---
@@ -49,8 +49,8 @@
 ### 📊 Telemetria
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=eluedes&show_icons=true&hide_title=true&bg_color=111214&border_color=3776AB&text_color=c9d1d9&icon_color=58A6FF&title_color=58A6FF" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eluedes&layout=compact&hide_title=true&bg_color=111214&border_color=3776AB&text_color=c9d1d9" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=eluedes&show_icons=true&hide_title=true&theme=dark&bg_color=111214&border_color=3776AB&icon_color=58A6FF&v=2" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eluedes&layout=compact&hide_title=true&theme=dark&bg_color=111214&border_color=3776AB&v=2" alt="Top Languages" />
 </div>
 
 ---
