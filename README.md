@@ -46,11 +46,10 @@
 
 ---
 
-### 📊 Telemetria
+### 📊 Telemetria de Commits
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=eluedes&show_icons=true&hide_title=true&theme=dark&bg_color=111214&border_color=3776AB&icon_color=58A6FF&v=2" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eluedes&layout=compact&hide_title=true&theme=dark&bg_color=111214&border_color=3776AB&v=2" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eluedes&theme=dark&hide_border=true&background=111214&ring=3776AB&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=6e7681" alt="GitHub Streak" />
 </div>
 
 ---
