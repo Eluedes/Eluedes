@@ -21,7 +21,7 @@
 ### ⏳ Status: Graduação em Andamento
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=500&color=58A6FF&center=true&vCenter=true&width=400&lines=Progresso:+1%25;Estudando+Algoritmo,+Inglês+Instrumental,+Comunicação+Empresarial...;Compilando+diploma...;" alt="Terminal Loading" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&pause=500&color=58A6FF&center=true&vCenter=true&width=400&lines=Progresso:+1%25;Estudando+1°+Periodo...;Compilando+diploma...;" alt="Terminal Loading" />
 </div>
 
 ---
