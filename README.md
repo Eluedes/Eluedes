@@ -1,59 +1,78 @@
-<h1 align="center">Olá 👋, eu sou Rafael Guedes | Eluedes</h1>
-<p align="center">🧠 Estudante de Desenvolvimento Web com foco em Back-End</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E75C3,100:00FF9D&height=200&section=header&text=Rafael%20Guedes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Desenvolvimento%20Web%20%7C%20Back-End&descAlignY=58&descSize=20" alt="Header Rafael Guedes" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F79A00&center=true&vCenter=true&width=435&lines=Estudante+Fullstack+em+formação;Meus+Hobbies+e+Animes+e+Jogos🎮;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=435&lines=Transformando+café+em+código...;Construindo+o+meu+futuro...;Foco+em+Back-End+e+Python...;" alt="Typing SVG" />
 </div>
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 Sobre a minha jornada acadêmica
 
-- 🎓 Estudante de **Desenvolvimento Web**
-- 🔁 Em transição para **Back-End com Python**
-- 🤖 Buscando aprender **automação** para otimizar tarefas e processos
-- 🌐 Ainda aprendendo o básico do **Front-End (HTML, CSS, JS)** para futuros projetos
-- 🎮 Apaixonado por **animes, jogos**, e por resolver problemas com código
+Olá! Sou o **Rafael** (também conhecido como Eluedes na rede). Atualmente, dedico meus dias à graduação em **Desenvolvimento Web**, com um foco apaixonado em arquitetura **Back-End**. 
+
+Minha rotina acadêmica é movida pela curiosidade de entender como as coisas funcionam por trás das telas. Estou em um processo de imersão constante em **Python** e no desenvolvimento de lógicas robustas, buscando sempre escrever códigos limpos, escaláveis e eficientes. 
+
+- 🎓 **Status:** Estudante universitário em formação.
+- 🎯 **Foco atual:** Dominar os fundamentos de Back-End e automação de processos.
+- 🌱 **Aprendendo:** Lógica de programação complexa, estruturas de dados e a tríade do Front-End (HTML, CSS, JS) para me tornar um desenvolvedor versátil.
+- 💡 **Interesses:** Resolução de problemas lógicos, games, animes e criação de sistemas que facilitem o dia a dia.
 
 ---
 
-### 🚀 Tecnologias que estou aprendendo e usando
+### ⏳ Status Acadêmico: Formatura em andamento...
+
+> A jornada é longa, mas cada linha de código é um passo mais perto do diploma.
+
+<div align="center">
+  <code>[████████████░░░░░░░░░░░░░░░░░░] 35%</code><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=15&pause=500&color=A9B2C3&center=true&vCenter=true&width=400&lines=>_ Instalando_dependências_da_carreira...;>_ Compilando_diploma...;>_ Graduação_Loading...;" alt="Terminal Loading" />
+</div>
+
+---
+
+### 🚀 Stack Tecnológica e Ferramentas
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3E75C3?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  **Linguagens e Estruturas** <br>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  
+  <br>**Ferramentas e Versionamento** <br>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
 </div>
 
 ---
 
-### 📊 Minhas estatísticas no GitHub
+### 📊 Desempenho e Estatísticas
 
 <div align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=eluedes&show_icons=true&hide_title=true&theme=dracula&bg_color=00000000" /> <br>
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eluedes&layout=compact&hide_title=true&theme=dracula&bg_color=00000000"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=eluedes&show_icons=true&hide_title=true&theme=tokyonight&bg_color=00000000&border_color=3E75C3" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eluedes&layout=compact&hide_title=true&theme=tokyonight&bg_color=00000000&border_color=3E75C3" />
 </div>
 
 ---
 
-### 📫 Me encontra aqui:
+### 📫 Conecte-se comigo
 
-<p align="center">
-  <a href="https://instagram.com/rafael_guedees" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" />
-  </a>
+<div align="center">
   <a href="https://discord.com/users/491667607817027606" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-</p>
+  <a href="https://instagram.com/rafael_guedees" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
----
+<br>
 
 <p align="center">
-  Feito com ❤️ enquanto aprendo e evoluo 🧠
+  <code style="color: #3E75C3;">print("Feito com ❤️ enquanto estudo e evoluo")</code>
 </p>
